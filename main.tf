@@ -1,3 +1,5 @@
 locals {
-  input = var.input
+  in = var.in
 }
+
+// do something else
