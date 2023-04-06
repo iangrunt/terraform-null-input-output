@@ -1,5 +1,1 @@
-locals {
-  in = var.in
-}
-
-// do something else
+// do something
