@@ -1,4 +1,4 @@
-output "output" {
-  value = local.input
+output "out" {
+  value = local.in
 }
 
