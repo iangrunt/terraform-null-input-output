@@ -1,4 +1,4 @@
 output "o" {
-  value = var.i
+  value = "test"
 }
 
