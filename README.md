@@ -5,7 +5,7 @@ Pass in anything, get it back. Useful for testing Terragrunt builtin functions.
 ```
 # terragrunt.hcl
 terraform {
-  source = "git@github.com:iangrunt/terraform-null-input-output.git?ref=main"
+  source = "git::git@github.com:iangrunt/terraform-null-input-output.git"
 }
 
 locals {
