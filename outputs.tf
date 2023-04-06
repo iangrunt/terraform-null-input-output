@@ -1,4 +1,3 @@
 output "o" {
-  value = "test"
+  value = var.i
 }
-
