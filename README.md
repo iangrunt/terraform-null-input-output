@@ -13,7 +13,7 @@ locals {
 }
 
 inputs = {
-  input = {
+  i = {
     project_id  = local.project.locals.project_id
     namespace   = "iangrunt"
     environment = "prod"
